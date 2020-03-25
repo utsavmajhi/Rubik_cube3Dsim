@@ -12,8 +12,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".scramblingcube3d"></activity>
-        <activity android:name=".homepage" />
+        <activity android:name=".AutoScrambling"
+            android:parentActivityName=".homepage"></activity>
+        <activity
+            android:name=".scramblingcube3d"
+            android:parentActivityName=".homepage" />
+        <activity
+            android:name=".homepage"
+            android:parentActivityName=".DeviceList" />
         <activity android:name=".DeviceList">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

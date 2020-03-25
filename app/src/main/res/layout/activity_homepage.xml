@@ -7,6 +7,16 @@
     android:background="@color/md_pink_50"
     tools:context=".homepage">
 
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/hometoolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/md_pink_A400"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="@string/app_name"
+        app:titleTextColor="@color/cpb_white">
+
+    </androidx.appcompat.widget.Toolbar>
     <pl.bclogic.pulsator4droid.library.PulsatorLayout
         android:id="@+id/pulsator"
         android:layout_width="match_parent"
@@ -43,7 +53,7 @@
                 android:layout_width="235dp"
                 android:layout_height="60dp"
                 android:layout_marginTop="32dp"
-                android:background="@drawable/background"
+                android:background="@color/md_red_500"
                 android:onClick="scrableclick"
                 android:text="Manual Scramble"
                 android:textAllCaps="false"
@@ -57,9 +67,11 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_margin="3dp"
+                android:padding="2dp"
                 android:text="Functions Available"
-                android:textSize="29sp"
-                android:textStyle="bold"
+                android:textSize="25sp"
+                android:textStyle="bold|italic"
                 app:fontFamily="@font/adamina"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -70,7 +82,8 @@
                 android:layout_width="235dp"
                 android:layout_height="60dp"
                 android:layout_marginTop="16dp"
-                android:background="@drawable/background"
+                android:background="@color/md_red_500"
+                android:onClick="autoscrmclick"
                 android:text="Auto Scramble"
                 android:textAllCaps="false"
                 android:textColor="@color/white"
