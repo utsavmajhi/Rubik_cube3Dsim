@@ -169,5 +169,6 @@
     <orderEntry type="library" name="Gradle: com.mikepenz:foundation-icons-typeface:3.0.0.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.mikepenz:ionicons-typeface:2.0.1.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.mikepenz:pixeden-7-stroke-typeface:1.2.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: pl.bclogic:pulsator4droid:1.0.3@aar" level="project" />
   </component>
 </module>

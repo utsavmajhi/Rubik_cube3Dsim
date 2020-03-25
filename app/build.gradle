@@ -54,4 +54,5 @@ dependencies {
     implementation 'com.mikepenz:foundation-icons-typeface:3.0.0.5@aar'
     implementation 'com.mikepenz:ionicons-typeface:2.0.1.5@aar'
     implementation 'com.mikepenz:pixeden-7-stroke-typeface:1.2.0.3@aar'
+    implementation 'pl.bclogic:pulsator4droid:1.0.3'
 }
