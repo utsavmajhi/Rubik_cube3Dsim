@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:ionicons-typeface:2.0.1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1aa68d2b0bba9ad00c9c024ad1898080/ionicons-typeface-2.0.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1aa68d2b0bba9ad00c9c024ad1898080/ionicons-typeface-2.0.1.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/ionicons-typeface/2.0.1.5/bdd1e21d3a43de6e04a014659fd0331f5ddbe58d/ionicons-typeface-2.0.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/ionicons-typeface/2.0.1.5/b1c7298be1c478471f6ec35c07a8d21a6fe88284/ionicons-typeface-2.0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

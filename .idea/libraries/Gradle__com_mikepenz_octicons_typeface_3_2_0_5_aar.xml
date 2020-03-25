@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:octicons-typeface:3.2.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3394d9d833f11a40d735d51fc8e9d96/octicons-typeface-3.2.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e3394d9d833f11a40d735d51fc8e9d96/octicons-typeface-3.2.0.5/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/octicons-typeface/3.2.0.5/a68e991fc423220fa00262b69ed64492da7d6ee6/octicons-typeface-3.2.0.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/octicons-typeface/3.2.0.5/8f119ccd155a8f150e76a740078d20b2203e9b23/octicons-typeface-3.2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

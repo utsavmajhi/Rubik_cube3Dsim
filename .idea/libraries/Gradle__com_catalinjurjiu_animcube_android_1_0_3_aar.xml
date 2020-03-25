@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.catalinjurjiu:animcube-android:1.0.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fed56a49021f752993c8989938a84531/jetified-animcube-android-1.0.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fed56a49021f752993c8989938a84531/jetified-animcube-android-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fed56a49021f752993c8989938a84531/jetified-animcube-android-1.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.catalinjurjiu/animcube-android/1.0.3/e66b8c6a64e46132453925e29382159da60cf703/animcube-android-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.catalinjurjiu/animcube-android/1.0.3/c959ebd0d6bbfbdfcf8d3df0fcbee3a428c8c430/animcube-android-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

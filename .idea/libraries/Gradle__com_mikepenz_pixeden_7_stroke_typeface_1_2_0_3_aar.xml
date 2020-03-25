@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:pixeden-7-stroke-typeface:1.2.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35b1b9cce69f26ab1124448b7ad05cf1/pixeden-7-stroke-typeface-1.2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35b1b9cce69f26ab1124448b7ad05cf1/pixeden-7-stroke-typeface-1.2.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/pixeden-7-stroke-typeface/1.2.0.3/70e9903c159f82f5576b7f01cea45202d153a65d/pixeden-7-stroke-typeface-1.2.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/pixeden-7-stroke-typeface/1.2.0.3/69a3c094e9d4f397e712d7cc52abb7370109cd57/pixeden-7-stroke-typeface-1.2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
